@@ -1,6 +1,7 @@
 # SimpleArithmeticCalculator-
 
-Description of the Code
+Description of the Code:
+
 The provided C++ code is a simple calculator program that performs basic arithmetic operations based on user input. Here's a step-by-step breakdown of the key points in the code:
 
 1.Include Header and Namespace Declaration:
